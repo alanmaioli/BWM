@@ -2,9 +2,9 @@
 Wolfram Mathematica codes related to the boundary wall method implementation.'
 
 In the file "BWMenxutoV0.nb", I present a simple version of the Boundary Wall Method implemented in a notebook of the Wolfram Mathematica.
-You can choose the geometry imput, and the output can be the wavefunction, the wavefunction evaluated in the space, a DensityPlot, the T-matrix, and/or the matrix plot of the squared absolute values of the T-matix.
-This simple implementation refer to a scattering of a plane wave by hard barrier with a desired geometry.
-For detailed explanation of the method see:
+You can choose the geometry input, and the output can be the wavefunction, the wavefunction evaluated in the space, a DensityPlot, the T-matrix, and/or the matrix plot of the squared absolute values of the T-matrix.
+This simple implementation refers to a scattering of a plane wave by a hard barrier with a desired geometry.
+For a detailed explanation of the method see:
 
 1) da Luz, M. G. E., Lupu-Sax, A. S., & Heller, E. J. (1997). Quantum scattering from arbitrary boundaries. Physical Review E, 56(3), 2496–2507. https://doi.org/10.1103/PhysRevE.56.2496
 
